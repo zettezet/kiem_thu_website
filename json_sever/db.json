@@ -1,9 +1,14 @@
 {
   "courses": [
     {
-      "id": 1,
+      "id": "1",
       "name": "iphone",
       "description": "iphone 17"
+    },
+    {
+      "id": "2",
+      "name": "samsung",
+      "description": "galaxy s25"
     }
   ]
 }
