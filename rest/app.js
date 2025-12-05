@@ -1,6 +1,5 @@
 var listCoursesBlock = document.querySelector('#list-courses');
-var courseApi = 'http://localhost:3000/courses';
-
+var courseApi = 'http://192.168.23.4:3000/courses';
 
 function start() {
     getCourses(function(courses) {;

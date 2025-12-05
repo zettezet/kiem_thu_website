@@ -9,6 +9,11 @@
       "id": "2",
       "name": "samsung",
       "description": "galaxy s25"
+    },
+    {
+      "id": "3",
+      "name": "xiaomi redmi",
+      "description": "redmi note 14"
     }
   ]
 }
